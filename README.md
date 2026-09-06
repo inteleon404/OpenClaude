@@ -40,7 +40,7 @@ claude --version
 
 Register for an AgentRouter account:
 
-[Register on AgentRouter](https://agentrouter.org/register?aff=72J0&utm_source=chatgpt.com)
+[Register on AgentRouter](https://agentrouter.org/register?aff=72J0)
 
 After registration, obtain your API key and keep it private.
 
@@ -125,7 +125,7 @@ curl error
 
 check the official installation troubleshooting documentation:
 
-[Troubleshoot Claude Code Installation](https://code.claude.com/docs/en/troubleshoot-install?utm_source=chatgpt.com#find-your-error)
+[Troubleshoot Claude Code Installation](https://code.claude.com/docs/en/troubleshoot-install?#find-your-error)
 
 On Windows:
 
