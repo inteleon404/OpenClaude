@@ -1,4 +1,8 @@
-# Claude Code — Custom AgentRouter Setup
+<p align="center">
+<img width="369" height="58" alt="ascii-art-text-openc" src="https://github.com/user-attachments/assets/5ec23aa4-430a-4a55-af71-8e7958c39934" />
+
+<p align="center">
+Claude Code — Custom AgentRouter Setup
 
 A clean setup guide for running Claude Code with a custom AgentRouter endpoint and model configuration.
 
